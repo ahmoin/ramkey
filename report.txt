@@ -1,0 +1,13 @@
+Annotated Battery_Cell as BT1.
+Annotated LED as D1.
+Annotated LED as D2.
+Annotated LED as D3.
+Annotated LED as D4.
+Annotated R as R1.
+Annotated R as R2.
+Annotated R as R3.
+Annotated R as R4.
+Annotated SW_Push as SW1.
+Annotated SW_Push as SW2.
+Annotated SW_Push as SW3.
+Annotation complete.
