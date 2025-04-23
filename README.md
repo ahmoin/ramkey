@@ -20,3 +20,7 @@ A simple keychain with one LED and three buttons for basic input/output.
 
 - 1 led
 - ram
+
+`@ahmoin` on slack
+
+for https://solder.hackclub.com
