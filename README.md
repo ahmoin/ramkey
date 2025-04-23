@@ -19,7 +19,7 @@ A simple keychain with one LED and three buttons for basic input/output.
 ## Features
 
 - 1 led
-- ram
+- 94.34x99.73mm(3.71x3.93 inches) ram
 
 `@ahmoin` on slack
 
